@@ -6,3 +6,6 @@
 5.  Galactus
 6.  Arnim Zola
 7.  Ultron
+8.  Iron Monger
+9.  Whiplash
+10. Ego, el planeta viviente
