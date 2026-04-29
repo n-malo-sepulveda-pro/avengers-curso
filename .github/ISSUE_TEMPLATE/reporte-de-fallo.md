@@ -2,7 +2,7 @@
 name: Reporte de fallo
 about: Crear un reporte que ayude a la mejora del software
 title: ''
-labels: ''
+labels: Fallo
 assignees: ''
 
 ---

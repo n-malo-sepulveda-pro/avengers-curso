@@ -2,7 +2,7 @@
 name: Solicitud de característica
 about: Sugerencias para este proyecto
 title: ''
-labels: ''
+labels: Mejora
 assignees: ''
 
 ---
